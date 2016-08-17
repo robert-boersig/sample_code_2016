@@ -1,0 +1,1 @@
+This project is a scraping system to pull eanrings data from Yahoo and send them to a third party api.
